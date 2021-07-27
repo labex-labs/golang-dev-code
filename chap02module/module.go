@@ -1,4 +1,4 @@
-package hello
+package chap02module
 
 import (
 	"encoding/base64"
